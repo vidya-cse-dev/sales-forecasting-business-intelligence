@@ -1,0 +1,23 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# React
+frontend/node_modules/
+frontend/dist/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Raw and intermediate datasets
+data/online_retail_II.xlsx
+data/combined_retail.csv
+data/cleaned_retail.csv
+
+# System files
+.DS_Store
+Thumbs.db
