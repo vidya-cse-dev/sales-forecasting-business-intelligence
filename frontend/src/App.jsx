@@ -11,7 +11,7 @@ import {
 } from "lucide-react";
 import "./App.css";
 
-const API = "http://127.0.0.1:8000";
+const API = "https://sales-forecasting-business-intelligence.onrender.com";
 
 const money = (value) =>
   new Intl.NumberFormat("en-GB", {
